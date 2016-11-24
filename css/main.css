@@ -50,7 +50,7 @@ img:nth-child(5) {
     float: right;
   }
 
-  img:nth-child(4){
+  img:nth-child(4) {
     float: left;
   }
 
@@ -79,11 +79,11 @@ img:nth-child(5) {
     float: left;
   }
 
-  img:nth-child(4){
+  img:nth-child(4) {
     float: left;
   }
 
-  img:nth-child(5){
+  img:nth-child(5) {
     display: none;
   }
 }
